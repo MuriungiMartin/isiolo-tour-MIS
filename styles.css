@@ -1,0 +1,157 @@
+body{
+     
+}
+.navbar{
+	background-color: lightgreen;
+	color: white;
+	padding: 40px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.header{
+	background-color: lightgreen;
+	color:black;
+	padding: 40px;
+	text-align: center;
+}
+.navbar a{
+	color:white;
+	margin-right: 20px;
+	font-size: 150%
+
+}
+.navbar a:hover{
+	color: blue;
+    font-size: 150%;
+    transition: 1s;
+
+
+}
+.paragraph{
+	color: black;
+	font-size: 100%;
+}
+form{
+	width: 50%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin:3px;
+}
+.input-group input{
+	height: 30px;
+	width:93%;
+	padding:5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border:1px solid grey;
+}
+.btn{
+	padding:10px;
+	font-size: 15px;
+	color: white;
+	background:#5F9EA0;
+	border:none;
+	border-radius: 20px;
+}
+
+footer{
+	background-color: lightgreen;
+	padding: 15px;
+	margin-top: 25px;
+	padding-bottom: 35px;
+	padding-top: 35px;
+	font-size: 125%;
+	text-align: center;
+}
+	.fa-facebook{
+		padding: 5px;
+		font-size: 20px;
+		width: 40px;
+		text-align: center;
+		text-decoration: none;
+		border: 1px dotted;
+		color:white;
+		background-color: rgb(59, 89, 152);
+		border-radius: 20px;
+		
+	}
+	.fa-twitter {
+		padding: 5px;
+		font-size: 20px;
+		width: 40px;
+		text-align: center;
+		text-decoration: none;
+		border: 1px dotted;
+		color:white;
+		background-color: rgb(85, 172, 238);
+	    border-radius: 20px;
+
+	}
+	.fa-instagram {
+		padding: 5px;
+		font-size: 20px;
+		width: 40px;
+		text-align: center;
+		text-decoration: none;
+		border: 1px dotted;
+		color:white;
+		background-color:rgb(233, 89, 80);
+		border-radius: 20px;
+
+
+	}
+	.fa-google {
+		padding: 5px;
+		font-size: 20px;
+		width: 40px;
+		text-align: center;
+		text-decoration: none;
+		border: 1px dotted;
+		color:white;
+		background-color: rgb(221, 75, 57);
+		border-radius: 20px;
+
+
+
+	}
+	
+	.fa-facebook:hover {
+			background-color: rgb(59, 89, 152);
+			color:white;
+	        box-shadow: insert 0 0 0 22px #3A5795;
+	        transform: rotate(360deg) scale(1.15);
+	        transition: 1s;
+
+	}
+	.fa-twitter:hover {
+	background-color: rgb(85, 172, 238);
+	color:white;
+	box-shadow: insert 0 0 0 22px #3A5795;
+	transform: rotate(360deg) scale(1.15);
+	transition: 1s;
+} 
+.fa-instagram:hover {
+	background-color: rgb(233, 89, 80);
+	color:white;
+	box-shadow: insert 0 0 0 22px #3A5795;
+	transform: rotate(360deg) scale(1.15);
+	transition: 1s;
+}
+.fa-google:hover {
+	background-color: rgb(221, 75, 57);
+	color:white;
+	box-shadow: insert 0 0 0 22px #3A5795;
+	transform: rotate(360deg) scale(1.15);
+	transition: 1s;
+} 
